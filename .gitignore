@@ -1,0 +1,13 @@
+# Ignore VS Code related files
+.vscode/
+
+# Ignore Python virtual environment
+__pycache__/
+.virtualenv/
+env/
+venv/
+*.pyc
+
+# Ignore other temp files (like from VS Code)
+.idea/
+.DS_Store
